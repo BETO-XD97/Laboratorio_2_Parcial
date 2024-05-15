@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rocabado_Roberto_23", "Rocabado_Roberto_23\Rocabado_Roberto_23.csproj", "{B8B448FC-E017-4DC7-9C3D-F50FDE9C1FD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rocabado_Roberto_Form", "Rocabado_Roberto_Form\Rocabado_Roberto_Form.csproj", "{1B03154E-CBEF-41A5-B438-A9DCBE020559}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8B448FC-E017-4DC7-9C3D-F50FDE9C1FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B448FC-E017-4DC7-9C3D-F50FDE9C1FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B448FC-E017-4DC7-9C3D-F50FDE9C1FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B448FC-E017-4DC7-9C3D-F50FDE9C1FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B03154E-CBEF-41A5-B438-A9DCBE020559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B03154E-CBEF-41A5-B438-A9DCBE020559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B03154E-CBEF-41A5-B438-A9DCBE020559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B03154E-CBEF-41A5-B438-A9DCBE020559}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B81CB43-C16D-4233-B1DA-D55F6F20795A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Rocabado_Roberto_Form/1.0.0": {
+        "dependencies": {
+          "Rocabado_Roberto_23": "1.0.0"
+        },
+        "runtime": {
+          "Rocabado_Roberto_Form.dll": {}
+        }
+      },
+      "Rocabado_Roberto_23/1.0.0": {
+        "runtime": {
+          "Rocabado_Roberto_23.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rocabado_Roberto_Form/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Rocabado_Roberto_23/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

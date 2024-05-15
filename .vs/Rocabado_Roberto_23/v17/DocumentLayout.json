@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roberto\\source\\repos\\Rocabado_Roberto_23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B03154E-CBEF-41A5-B438-A9DCBE020559}|Rocabado_Roberto_Form\\Rocabado_Roberto_Form.csproj|c:\\users\\roberto\\source\\repos\\rocabado_roberto_23\\rocabado_roberto_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B03154E-CBEF-41A5-B438-A9DCBE020559}|Rocabado_Roberto_Form\\Rocabado_Roberto_Form.csproj|solutionrelative:rocabado_roberto_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B03154E-CBEF-41A5-B438-A9DCBE020559}|Rocabado_Roberto_Form\\Rocabado_Roberto_Form.csproj|c:\\users\\roberto\\source\\repos\\rocabado_roberto_23\\rocabado_roberto_form\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B03154E-CBEF-41A5-B438-A9DCBE020559}|Rocabado_Roberto_Form\\Rocabado_Roberto_Form.csproj|solutionrelative:rocabado_roberto_form\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B03154E-CBEF-41A5-B438-A9DCBE020559}|Rocabado_Roberto_Form\\Rocabado_Roberto_Form.csproj|c:\\users\\roberto\\source\\repos\\rocabado_roberto_23\\rocabado_roberto_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B03154E-CBEF-41A5-B438-A9DCBE020559}|Rocabado_Roberto_Form\\Rocabado_Roberto_Form.csproj|solutionrelative:rocabado_roberto_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\source\\repos\\Rocabado_Roberto_23\\Rocabado_Roberto_Form\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Rocabado_Roberto_Form\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Roberto\\source\\repos\\Rocabado_Roberto_23\\Rocabado_Roberto_Form\\Form1.Designer.cs",
+              "RelativeToolTip": "Rocabado_Roberto_Form\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:06:19.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\source\\repos\\Rocabado_Roberto_23\\Rocabado_Roberto_Form\\Form1.cs",
+              "RelativeDocumentMoniker": "Rocabado_Roberto_Form\\Form1.cs",
+              "ToolTip": "C:\\Users\\Roberto\\source\\repos\\Rocabado_Roberto_23\\Rocabado_Roberto_Form\\Form1.cs",
+              "RelativeToolTip": "Rocabado_Roberto_Form\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:54:24.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Roberto\\source\\repos\\Rocabado_Roberto_23\\Rocabado_Roberto_Form\\Form1.cs",
+              "RelativeDocumentMoniker": "Rocabado_Roberto_Form\\Form1.cs",
+              "ToolTip": "C:\\Users\\Roberto\\source\\repos\\Rocabado_Roberto_23\\Rocabado_Roberto_Form\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Rocabado_Roberto_Form\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:47:00.543Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
